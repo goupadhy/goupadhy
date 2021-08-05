@@ -1,7 +1,7 @@
 ### Hi there, I'm Goutham Upadhyaya - aka [goupadhy][https://www.linkedin.com/in/goupadhy/] 👋
 
 
-[![Website](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)](http://goupadhy.mybluemix.net/)
+[![Website  width="22px" ](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)](http://goupadhy.mybluemix.net/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/goupadhy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgoupadhy&screen_name=goupadhy)
 
 ## I'm a Husband, Father, Cloud Architect, and Life Long Learner!!
@@ -9,15 +9,15 @@
 - 🔭 I'm in this Industry for over 15 years now and every day is Day 1 in terms of learning
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with  Devs/Architects/Thought Leaders
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Cloud and Open Source projects
 - ⚡ Fun fact: I love to spend time with my daughter, she teaches me how to be curious, learn new things and keeping  life simple
 
 ### Connect with me:
 
-[<img align="left" alt="goupadhy" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][http://goupadhy.mybluemix.net/]
-[<img align="left" alt="goupadhy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/goupadhy]
-[<img align="left" alt="goupadhy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][[https://www.linkedin.com/in/goupadhy/]
-[<img align="left" alt="goupadhy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/goutham_upadhyaya/]
+[<img align="left" alt="goupadhy" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://goupadhy.mybluemix.net/)
+[<img align="left" alt="goupadhy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/goupadhy)
+[<img align="left" alt="goupadhy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/goupadhy/)
+[<img align="left" alt="goupadhy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/goutham_upadhyaya/)
 
 <br />
 
