@@ -51,7 +51,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Top Characteristics of High Performance Engineering Teams](https://www.linkedin.com/pulse/top-characteristics-high-performance-engineering-teams-upadhyaya/)
-- [Azure Cloud Blogs] (https://azure.microsoft.com/en-in/blog/)
+- [Azure Cloud Blogs](https://azure.microsoft.com/en-in/blog/)
 - [Microsoft Blogs](https://blogs.microsoft.com/)
 - [GitHub Blogs](https://github.blog/)
 <!-- BLOG-POST-LIST:END -->
