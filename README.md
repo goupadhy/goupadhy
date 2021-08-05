@@ -3,6 +3,7 @@
 
 [![Website  ](https://img.shields.io/website?label=goupadhy&style=for-the-badge&url=https%3A%2F%2Fgoupadhy.mybluemix.net)](http://goupadhy.mybluemix.net/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/goupadhy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgoupadhy&screen_name=goupadhy)
+[![Linkedin: goupadhy](https://img.shields.io/badge/-Gouutham%20Upadhyaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goupadhy/)](https://www.linkedin.com/in/goupadhy/)
 
 ## I'm a Husband, Father, Cloud Architect, and Life Long Learner!!
 
