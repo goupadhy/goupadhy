@@ -12,6 +12,10 @@
 - 🥅 2021 Goals: Contribute more to Cloud and Open Source projects
 - ⚡ Fun fact: I love to spend time with my daughter, she teaches me how to be curious, learn new things and keeping  life simple
 
+
+#### Love to talk to people and discuss tech! You can reach me out on any channels below!
+
+
 ### Connect with me:
 
 [<img align="left" alt="goupadhy" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://goupadhy.mybluemix.net/)
