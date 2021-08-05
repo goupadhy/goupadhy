@@ -8,7 +8,7 @@
 
 - 🔭 I'm in this Industry for over 15 years now and every day is Day 1 in terms of learning
 - 🌱 I’m currently trying to learn everything around Cloud, Data and AI, Security, Cloud native technologies, Azure Power Platform, Github and App Modernization🤣
-- 👯 I’m looking to collaborate with  Devs/Architects/Thought Leaders
+- 👯 I’m looking to collaborate with  Devs/Architects/Technology Thought Leaders
 - 🥅 2021 Goals: Contribute more to Cloud and Open Source projects
 - ⚡ Fun fact: I love to spend time with my daughter, she teaches me how to be curious, learn new things and keeping  life simple
 
