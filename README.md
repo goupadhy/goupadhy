@@ -1,7 +1,7 @@
-### Hi there, I'm Goutham Upadhyaya - aka [goupadhy][https://www.linkedin.com/in/goupadhy/] 👋
+### Hi there, I'm Goutham Upadhyaya - aka [goupadhy](https://www.linkedin.com/in/goupadhy/) 👋
 
 
-[![Website  width="22px" ](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)](http://goupadhy.mybluemix.net/)
+[![Website  ](https://img.shields.io/website?label=goupadhy&style=for-the-badge&url=https%3A%2F%2Fgoupadhy.mybluemix.net)](http://goupadhy.mybluemix.net/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/goupadhy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgoupadhy&screen_name=goupadhy)
 
 ## I'm a Husband, Father, Cloud Architect, and Life Long Learner!!
