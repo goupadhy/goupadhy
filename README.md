@@ -49,11 +49,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [How to get started with Windows Admin Center](https://www.youtube.com/watch?v=JQ1aHG8yZkQ)
 - [Microsoft for Public Health and Social Services](https://www.youtube.com/watch?v=G31-XLmBb14)
 - [Çağlayan Arkan presents the Art of Possible: What’s next for industrial innovation with Honeywell](https://www.youtube.com/watch?v=hZKC-V7vQhM)
 - [Taking Stock Live - a conversation with Shelley Bransten and Deb Cupp](https://www.youtube.com/watch?v=1aajZBscKy0)
 - [Creating seamless shopping experience that benefit the bottom line](https://www.youtube.com/watch?v=6YWoFd2T_KQ)
-- [NBA uses Microsoft Azure to power new content that elevates fan engagement](https://www.youtube.com/watch?v=f94aBI4IW5s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
