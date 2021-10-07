@@ -13,6 +13,7 @@
 - 🥅 2021 Goals: Contribute more to Cloud and Open Source projects
 - ⚡ Fun fact: I love to spend time with my daughter, she teaches me how to be curious, learn new things and keeping  life simple
 
+<iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="469" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
 
 #### Love to talk to people and discuss tech! You can reach me out on any channels below!
 
