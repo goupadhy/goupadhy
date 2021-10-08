@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [FastTrack for Azure helps startup Kinetica drive digital transformation](https://www.youtube.com/watch?v=lZ0yQtGnWe8)
 - [Microsoft Cloud for Financial Services Overview: Accelerate innovation for sustainable growth](https://www.youtube.com/watch?v=qSmsfJ5ieZE)
 - [How to get started with Windows Admin Center](https://www.youtube.com/watch?v=JQ1aHG8yZkQ)
 - [Microsoft for Public Health and Social Services](https://www.youtube.com/watch?v=G31-XLmBb14)
 - [Çağlayan Arkan presents the Art of Possible: What’s next for industrial innovation with Honeywell](https://www.youtube.com/watch?v=hZKC-V7vQhM)
-- [Taking Stock Live - a conversation with Shelley Bransten and Deb Cupp](https://www.youtube.com/watch?v=1aajZBscKy0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
