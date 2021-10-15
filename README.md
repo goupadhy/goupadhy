@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Empowering Hybrid Work for Brands & Retailers](https://www.youtube.com/watch?v=mJDW1HIvl1Q)
 - [Taking Stock Live - a conversation with Shelley Bransten & Deb Weinswig](https://www.youtube.com/watch?v=-yCQqRG1JI4)
 - [FastTrack for Azure helps startup Kinetica drive digital transformation](https://www.youtube.com/watch?v=lZ0yQtGnWe8)
 - [Microsoft Cloud for Financial Services Overview: Accelerate innovation for sustainable growth](https://www.youtube.com/watch?v=qSmsfJ5ieZE)
 - [How to get started with Windows Admin Center](https://www.youtube.com/watch?v=JQ1aHG8yZkQ)
-- [Microsoft for Public Health and Social Services](https://www.youtube.com/watch?v=G31-XLmBb14)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
