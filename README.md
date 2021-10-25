@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Taking Stock Live - a conversation with Dave Weiner](https://www.youtube.com/watch?v=NcHHXuPMt88)
 - [Microsoft for Public Finance](https://www.youtube.com/watch?v=VsRoKmFrjGo)
 - [Empowering Hybrid Work for Brands & Retailers](https://www.youtube.com/watch?v=mJDW1HIvl1Q)
 - [Taking Stock Live - a conversation with Shelley Bransten & Deb Weinswig](https://www.youtube.com/watch?v=-yCQqRG1JI4)
 - [FastTrack for Azure helps startup Kinetica drive digital transformation](https://www.youtube.com/watch?v=lZ0yQtGnWe8)
-- [Microsoft Cloud for Financial Services Overview: Accelerate innovation for sustainable growth](https://www.youtube.com/watch?v=qSmsfJ5ieZE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
