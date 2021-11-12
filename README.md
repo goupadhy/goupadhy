@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Azure helps Avanade build retail solutions to change the world](https://www.youtube.com/watch?v=nLifqPofyQo)
 - [Microsoft Cloud for Manufacturing Overview](https://www.youtube.com/watch?v=sBFwo-QzaYo)
 - [Microsoft Cloud for Manufacturing - Asset productivity](https://www.youtube.com/watch?v=qv1syj2Xxts)
 - [Heineken partners with Microsoft to become the best connected brewer](https://www.youtube.com/watch?v=C6dq5bPGcNs)
 - [Microsoft Cloud for Manufacturing - Always-on service](https://www.youtube.com/watch?v=5XEGmgjMe_c)
-- [National Forest Foundation and Microsoft Cloud for Nonprofits](https://www.youtube.com/watch?v=A9Gat-k0Puk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
