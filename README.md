@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Microsoft Cloud for Financial Services: Unified Customer Profile](https://www.youtube.com/watch?v=kAqQ-rdQMpQ)
+- [Microsoft Cloud for Financial Services: Collaboration Manager](https://www.youtube.com/watch?v=ZYBPmf97yPo)
 - [Enhance emergency response effectiveness with Microsoft Tactical First Response Capabilities](https://www.youtube.com/watch?v=f3PJq8sgtcA)
 - [Azure helps Avanade build retail solutions to change the world](https://www.youtube.com/watch?v=nLifqPofyQo)
 - [Microsoft Cloud for Manufacturing Overview](https://www.youtube.com/watch?v=sBFwo-QzaYo)
-- [Microsoft Cloud for Manufacturing - Asset productivity](https://www.youtube.com/watch?v=qv1syj2Xxts)
-- [Heineken partners with Microsoft to become the best connected brewer](https://www.youtube.com/watch?v=C6dq5bPGcNs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
