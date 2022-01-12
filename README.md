@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Diversity &amp; Inclusion Perspectives Segment | Microsoft Envision 2022](https://www.youtube.com/watch?v=w7TU__xPr2c)
+- [Connect your customers, your people, and your data with Microsoft Cloud for Retail](https://www.youtube.com/watch?v=ew_gMs3Mtps)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Tom Ripley](https://www.youtube.com/watch?v=QzAI5yFUexs)
 - [Microsoft for Government Critical Infrastructure](https://www.youtube.com/watch?v=gjLjRO_m69I)
 - [Çağlayan Arkan presents: Advancing digital transformation at planetary scale across industries](https://www.youtube.com/watch?v=rzUL0dzavSM)
-- [F5 finds winning formula with the commercial marketplace | Microsoft Cloud](https://www.youtube.com/watch?v=hOt30x-1TDk)
-- [Taking Stock Live - a conversation with Shelley Bransten &amp; Judson Althoff](https://www.youtube.com/watch?v=9Mq0q0693gg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
