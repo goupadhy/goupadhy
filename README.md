@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Mattress Firm partners with Microsoft to transform customer experiences](https://www.youtube.com/watch?v=H6yaQNZcUsA)
 - [Diversity &amp; Inclusion Perspectives Segment | Microsoft Envision 2022](https://www.youtube.com/watch?v=w7TU__xPr2c)
 - [Connect your customers, your people, and your data with Microsoft Cloud for Retail](https://www.youtube.com/watch?v=ew_gMs3Mtps)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Tom Ripley](https://www.youtube.com/watch?v=QzAI5yFUexs)
 - [Microsoft for Government Critical Infrastructure](https://www.youtube.com/watch?v=gjLjRO_m69I)
-- [Çağlayan Arkan presents: Advancing digital transformation at planetary scale across industries](https://www.youtube.com/watch?v=rzUL0dzavSM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
