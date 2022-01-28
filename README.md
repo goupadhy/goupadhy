@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Transformation in Media and Entertainment](https://www.youtube.com/watch?v=MGPQGP2_jCA)
+- [Driving the Future of Mobility | Microsoft Cloud](https://www.youtube.com/watch?v=pAA33k8DFME)
 - [Planzer leverages the Azure Migration and Modernization Program to migrate to Azure](https://www.youtube.com/watch?v=qMEhH2cgeZ4)
 - [Mattress Firm partners with Microsoft to transform customer experiences](https://www.youtube.com/watch?v=H6yaQNZcUsA)
 - [Diversity &amp; Inclusion Perspectives Segment | Microsoft Envision 2022](https://www.youtube.com/watch?v=w7TU__xPr2c)
-- [Connect your customers, your people, and your data with Microsoft Cloud for Retail](https://www.youtube.com/watch?v=ew_gMs3Mtps)
-- [Taking Stock Live - a conversation with Shelley Bransten &amp; Tom Ripley](https://www.youtube.com/watch?v=QzAI5yFUexs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
