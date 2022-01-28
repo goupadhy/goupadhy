@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Retailers are partnering with Microsoft to connect their customers, their people and their data](https://www.youtube.com/watch?v=C2xHCjsREVU)
 - [Transformation in Media and Entertainment](https://www.youtube.com/watch?v=MGPQGP2_jCA)
 - [Driving the Future of Mobility | Microsoft Cloud](https://www.youtube.com/watch?v=pAA33k8DFME)
 - [Planzer leverages the Azure Migration and Modernization Program to migrate to Azure](https://www.youtube.com/watch?v=qMEhH2cgeZ4)
 - [Mattress Firm partners with Microsoft to transform customer experiences](https://www.youtube.com/watch?v=H6yaQNZcUsA)
-- [Diversity &amp; Inclusion Perspectives Segment | Microsoft Envision 2022](https://www.youtube.com/watch?v=w7TU__xPr2c)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
