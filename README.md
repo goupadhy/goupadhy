@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Gjensidige builds on GitHub &amp; Azure to put security front-and-center of its new application platform](https://www.youtube.com/watch?v=2vM27KH_jCI)
 - [Microsoft Accelerates Media and Entertainment Transformation](https://www.youtube.com/watch?v=HREOWPQrWGc)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Julie Averill](https://www.youtube.com/watch?v=ZjzGi3DdPAM)
 - [Retailers are partnering with Microsoft to connect their customers, their people and their data](https://www.youtube.com/watch?v=C2xHCjsREVU)
 - [Transformation in Media and Entertainment](https://www.youtube.com/watch?v=MGPQGP2_jCA)
-- [Driving the Future of Mobility | Microsoft Cloud](https://www.youtube.com/watch?v=pAA33k8DFME)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
