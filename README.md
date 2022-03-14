@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Scale your business | Cloud Solutions Provider](https://www.youtube.com/watch?v=yC9d52PsuOg)
+- [Scaling your business thru partners | Cloud Solutions Provider](https://www.youtube.com/watch?v=X33C-RV9dZc)
 - [Intelligent telecommunications: Empowering the future of insights, experiences, and growth](https://www.youtube.com/watch?v=d568RFbCLz0)
 - [Gjensidige builds on GitHub &amp; Azure to put security front-and-center of its new application platform](https://www.youtube.com/watch?v=2vM27KH_jCI)
 - [Microsoft Accelerates Media and Entertainment Transformation](https://www.youtube.com/watch?v=HREOWPQrWGc)
-- [Taking Stock Live - a conversation with Shelley Bransten &amp; Julie Averill](https://www.youtube.com/watch?v=ZjzGi3DdPAM)
-- [Retailers are partnering with Microsoft to connect their customers, their people and their data](https://www.youtube.com/watch?v=C2xHCjsREVU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
