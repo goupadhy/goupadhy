@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [AI test to detect damage to Astronaut Equipment onboard ISS with NASA, HPE, Microsoft](https://www.youtube.com/watch?v=r-wMwGjO8yc)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Bill Borden | Part 1](https://www.youtube.com/watch?v=1LgXpaHNpT8)
 - [Sustainability in Media &amp; Entertainment: perspective from industry leaders](https://www.youtube.com/watch?v=p92ze8Wr4J8)
 - [Sustainability in Telco: perspective from industry leaders](https://www.youtube.com/watch?v=umeu4BkO7EA)
 - [Scale your business | Cloud Solutions Provider](https://www.youtube.com/watch?v=yC9d52PsuOg)
-- [Scaling your business thru partners | Cloud Solutions Provider](https://www.youtube.com/watch?v=X33C-RV9dZc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
