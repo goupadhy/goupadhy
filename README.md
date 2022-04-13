@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [BlackRock uses Azure to strengthen Aladdin, its investment management platform](https://www.youtube.com/watch?v=4tm8exI0DSY)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Bill Borden | Part 2](https://www.youtube.com/watch?v=y9LU4ID2UCQ)
 - [Nimble and Sherweb partner up for growth on the commercial marketplace](https://www.youtube.com/watch?v=E4ZYk60DZzE)
 - [AI test to detect damage to Astronaut Equipment onboard ISS with NASA, HPE, Microsoft](https://www.youtube.com/watch?v=r-wMwGjO8yc)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Bill Borden | Part 1](https://www.youtube.com/watch?v=1LgXpaHNpT8)
-- [Sustainability in Media &amp; Entertainment: perspective from industry leaders](https://www.youtube.com/watch?v=p92ze8Wr4J8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
