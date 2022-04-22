@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Microsoft live events platform - The Digital Experience Solution](https://www.youtube.com/watch?v=LldOYzR5tfo)
 - [Azure Health Data Services](https://www.youtube.com/watch?v=EKMI7TZK72k)
 - [BlackRock uses Azure to strengthen Aladdin, its investment management platform](https://www.youtube.com/watch?v=4tm8exI0DSY)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Bill Borden | Part 2](https://www.youtube.com/watch?v=y9LU4ID2UCQ)
 - [Nimble and Sherweb partner up for growth on the commercial marketplace](https://www.youtube.com/watch?v=E4ZYk60DZzE)
-- [AI test to detect damage to Astronaut Equipment onboard ISS with NASA, HPE, Microsoft](https://www.youtube.com/watch?v=r-wMwGjO8yc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
