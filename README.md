@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [NBA builds a solid foundation for innovation and business success with SAP on Azure](https://www.youtube.com/watch?v=gAa3k3UFFsw)
 - [Çağlayan Arkan presents the Art of Possible: Accelerating Digital Manufacturing Excellence with Dow](https://www.youtube.com/watch?v=ojzpozyZ1AI)
 - [Intelligent Media and Entertainment: Empowering your future of creativity, content, and experiences](https://www.youtube.com/watch?v=3SpKd5cwVAs)
 - [Microsoft live events platform - The Digital Experience Solution](https://www.youtube.com/watch?v=LldOYzR5tfo)
 - [Azure Health Data Services](https://www.youtube.com/watch?v=EKMI7TZK72k)
-- [BlackRock uses Azure to strengthen Aladdin, its investment management platform](https://www.youtube.com/watch?v=4tm8exI0DSY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
