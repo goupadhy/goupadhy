@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Inspired by circularity, powered by innovation– Microsoft Circular Centers scale sustainability](https://www.youtube.com/watch?v=IcWg7F85puY)
 - [Microsoft Cloud for Sustainability](https://www.youtube.com/watch?v=HDYRb-8HXgE)
 - [Air Canada flies high with AI from Azure Form Recognizer](https://www.youtube.com/watch?v=NqyZ_7btL5I)
 - [CarMax puts customers first with car research tools powered by Azure OpenAI Service](https://www.youtube.com/watch?v=n4KekgD4DdY)
 - [Northumbria Healthcare NHS Foundation adopts Responsible AI philosophy with Azure Machine Learning](https://www.youtube.com/watch?v=LRZHcipcweY)
-- [NBA builds a solid foundation for innovation and business success with SAP on Azure](https://www.youtube.com/watch?v=gAa3k3UFFsw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
