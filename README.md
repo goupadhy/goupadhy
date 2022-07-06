@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Royal Bank of Canada speeds innovation with Azure Arc-enabled data services](https://www.youtube.com/watch?v=lYvzrMgdReI)
 - [Çağlayan Arkan presents the Art of Possible: Breaking free of scale purgatory in manufacturing](https://www.youtube.com/watch?v=ae4MnQKviHE)
 - [Grupo Bimbo accelerates its sustainability journey with Microsoft Cloud for Sustainability](https://www.youtube.com/watch?v=DEXuXW2OaFc)
 - [Wolverine Worldwide boosts business performance and employee experience using RISE with SAP on Azure](https://www.youtube.com/watch?v=NjwsD_TGhIU)
 - [Wolverine Worldwide activates a digital shift to spark innovation with Azure Arc](https://www.youtube.com/watch?v=gt5jGGaKDiI)
-- [Inspired by circularity, powered by innovation– Microsoft Circular Centers scale sustainability](https://www.youtube.com/watch?v=IcWg7F85puY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
