@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Satya Nadella keynote on Microsoft Cloud for Sovereignty and Azure confidential computing](https://www.youtube.com/watch?v=L35eKUN4ZZ8)
 - [Azure helps Eshgro to grow their business faster and quickly scale to other countries](https://www.youtube.com/watch?v=z59bPOjthHU)
 - [Ingredion aims to make the world a better place for all using powerful sustainability data](https://www.youtube.com/watch?v=II1lM5fmV-o)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Nina Holdaway | Part 2](https://www.youtube.com/watch?v=3aRvzn4ChlE)
 - [Blue Radix helps solve the greenhouse aging crisis with Azure automation](https://www.youtube.com/watch?v=RbmGSPMHY_s)
-- [Taking Stock Live - a conversation with Shelley Bransten &amp; Nina Holdaway | Part 1](https://www.youtube.com/watch?v=TlcNW_K9k4s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
