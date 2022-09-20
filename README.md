@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Introducing Microsoft Energy Data Services](https://www.youtube.com/watch?v=2dv-iXQgaq4)
 - [Equinor targets data efficiency and a low-carbon future with Microsoft Energy Data Services](https://www.youtube.com/watch?v=cs-qek0Aqmc)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Francesco Tinto | Part 1](https://www.youtube.com/watch?v=-6vQdsHuruI)
 - [Fortinet grows their business exponentially through the commercial marketplace](https://www.youtube.com/watch?v=a7KEsmrEXz8)
 - [Satya Nadella keynote on Microsoft Cloud for Sovereignty and Azure confidential computing](https://www.youtube.com/watch?v=L35eKUN4ZZ8)
-- [Azure helps Eshgro to grow their business faster and quickly scale to other countries](https://www.youtube.com/watch?v=z59bPOjthHU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
