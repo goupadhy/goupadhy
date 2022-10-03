@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Announcing Tackle + Microsoft&#39;s strategic partnership](https://www.youtube.com/watch?v=aHdUjPbY4q4)
 - [Microsoft Cloud for Financial Services Overview: Intelligent Appointments](https://www.youtube.com/watch?v=CjqfCkxk2P4)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Francesco Tinto | Part 2](https://www.youtube.com/watch?v=XudJjR5pWFc)
 - [Document intelligence streamlines and expedites onboarding for Financial institutions](https://www.youtube.com/watch?v=KeNmo7qdnms)
 - [Missed appointments, an Industry AI solution for Healthcare](https://www.youtube.com/watch?v=WBXzK4YlqtU)
-- [Introducing Microsoft Energy Data Services](https://www.youtube.com/watch?v=2dv-iXQgaq4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
