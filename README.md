@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Microsoft Cloud for Financial Services Overview: Onboarding Application](https://www.youtube.com/watch?v=uRnm3Dff7B4)
 - [See how Tackle and the commercial marketplace helped Starburst to quickly grow and scale](https://www.youtube.com/watch?v=XoN_KliG72k)
 - [Announcing Tackle + Microsoft&#39;s strategic partnership](https://www.youtube.com/watch?v=aHdUjPbY4q4)
 - [Microsoft Cloud for Financial Services Overview: Intelligent Appointments](https://www.youtube.com/watch?v=CjqfCkxk2P4)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Francesco Tinto | Part 2](https://www.youtube.com/watch?v=XudJjR5pWFc)
-- [Document intelligence streamlines and expedites onboarding for Financial institutions](https://www.youtube.com/watch?v=KeNmo7qdnms)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
