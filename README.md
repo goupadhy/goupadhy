@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Microsoft Cloud for Financial Services: Improving the customer journey](https://www.youtube.com/watch?v=CjUbQe1ys0c)
+- [Microsoft Cloud for Financial Services: Wealth Management](https://www.youtube.com/watch?v=5JW9F8g7_6s)
 - [Azure confidential computing announcements | Satya Nadella Keynote Ignite 2022](https://www.youtube.com/watch?v=ulNtbG_EZUI)
 - [FLSmidth plans industry-wide sustainability transformation and looks to Microsoft solutions for help](https://www.youtube.com/watch?v=V5Br8Xv4BNE)
 - [Sanofi gains speed and agility with Azure hybrid cloud strategy](https://www.youtube.com/watch?v=K3xEAvTFCk4)
-- [Bethesda Health Care puts patients first with the new Bethesda Clinic and Cloud for Healthcare](https://www.youtube.com/watch?v=F-YQspizp_Q)
-- [Microsoft Cloud for Financial Services Overview: Onboarding Application](https://www.youtube.com/watch?v=uRnm3Dff7B4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
