@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [On the Go with Sanjay Ravi - Wayve and Autonomous Vehicles | Episode 1](https://www.youtube.com/watch?v=pjKNX1K0ZAo)
 - [Introducing Microsoft Supply Chain Platform](https://www.youtube.com/watch?v=wNrwLDgTOSA)
 - [iFit uses Supply Chain Center to optimize inventory and delight customers with rapid delivery times](https://www.youtube.com/watch?v=QBhjK4ZzO5c)
 - [Microsoft Supply Chain Center Demo](https://www.youtube.com/watch?v=CWxXOPWhYHI)
 - [Empowering business to reimagine supply chains](https://www.youtube.com/watch?v=0UfxJ81Z63s)
-- [Daimler looks to optimize supply chain processes with Microsoft Supply Chain Platform](https://www.youtube.com/watch?v=5Il5aSGJ7Hk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
