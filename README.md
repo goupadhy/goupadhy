@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Empowering business to reimagine supply chains | Microsoft Supply Chain Platform](https://www.youtube.com/watch?v=DCMvdOWKy_c)
 - [See how the commercial marketplace has become central to Palo Alto&#39;s cloud strategy](https://www.youtube.com/watch?v=KRNlvN0wXD4)
 - [Orange County Superior Court Enhances Operations with Microsoft Azure](https://www.youtube.com/watch?v=647ZuMqlzXY)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Elisabeth Brinton](https://www.youtube.com/watch?v=iZx9ES45S-U)
 - [Microsoft Cloud for Manufacturing Overview](https://www.youtube.com/watch?v=dYqJPaehrQo)
-- [On the Go with Sanjay Ravi - Wayve and Autonomous Vehicles | Episode 1](https://www.youtube.com/watch?v=pjKNX1K0ZAo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
