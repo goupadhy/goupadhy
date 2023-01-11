@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Żabka Group launches autonomous Nano stores powered by Microsoft Cloud for Retail](https://www.youtube.com/watch?v=BJpwE4YLYD0)
 - [Microsoft Azure LATAM educating its developer community on AI and accessibility](https://www.youtube.com/watch?v=P-JQl5MbUsY)
 - [Azure migration helps TomTom achieve high availability](https://www.youtube.com/watch?v=BE9MO9WvZFc)
 - [On the Go with Sanjay Ravi--Episode 3--Touchcast and the Metaverse](https://www.youtube.com/watch?v=2uA-YPrRWhw)
 - [Grupo Bimbo and Microsoft Cloud for Sustainability](https://www.youtube.com/watch?v=ml6PI8vDmHs)
-- [ZF and the Future of Mobility | On the Go with Sanjay Ravi Ep2](https://www.youtube.com/watch?v=X8WD9vbiqPg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
