@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Taking Stock Live - a conversation with Shelley Bransten &amp; Karyn Schoenbart](https://www.youtube.com/watch?v=j66FFVO1Nwg)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Andy Ruben](https://www.youtube.com/watch?v=RbUd55D2O1s)
 - [Florida Fish and Wildlife Conservation Commission uses Azure to preserve the state for the future](https://www.youtube.com/watch?v=Y7E1CfP6Wj8)
 - [Northern Tool + Equipment achieves faster delivery by transforming its supply chain infrastructure](https://www.youtube.com/watch?v=RBsf6I6uayg)
 - [Welcome to Microsoft Cloud for Retail](https://www.youtube.com/watch?v=1ZG9IRJ8eEM)
-- [Żabka Group launches autonomous Nano stores powered by Microsoft Cloud for Retail](https://www.youtube.com/watch?v=BJpwE4YLYD0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
