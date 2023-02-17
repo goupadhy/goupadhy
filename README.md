@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Microsoft Marketplace Summit: The opportunity for ISVs with Microsoft](https://www.youtube.com/watch?v=7qs2uqN7OpE)
 - [Microsoft Marketplace Summit: The future of B2B commerce and procurement](https://www.youtube.com/watch?v=s0-drzIS8_g)
 - [Accelerating time to market with the ISV Success Program](https://www.youtube.com/watch?v=XElK3Nc_7Kk)
 - [Taking Stock Live - a conversation with Shelley Bransten and John Dick](https://www.youtube.com/watch?v=xe7Pnwn9Ets)
 - [An introduction to the Microsoft commercial marketplace](https://www.youtube.com/watch?v=3trnNLL1CAQ)
-- [Taking Stock Live - a conversation with Shelley Bransten &amp; Karyn Schoenbart](https://www.youtube.com/watch?v=j66FFVO1Nwg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
