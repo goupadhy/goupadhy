@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [MMS &lpar;November 2022&rpar;: Activate an ecosystem of partners and unlock new markets](https://www.youtube.com/watch?v=D5C63D4nuB8)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Tomasz Blicharksi](https://www.youtube.com/watch?v=0mqQE2dgpuA)
 - [Żabka envisions optimized autonomous store experiences with Microsoft Cloud for Retail](https://www.youtube.com/watch?v=taVRf96pNdI)
 - [Empower store associates with Store Operations Assist](https://www.youtube.com/watch?v=JHATLEfPr2s)
 - [Microsoft Marketplace Summit: List in the marketplace &amp; jumpstart your cloud go-to-market strategy](https://www.youtube.com/watch?v=NfdisVZxwQw)
-- [Microsoft Marketplace Summit: Co-sell with Microsoft &amp; land enterprise deals through the marketplace](https://www.youtube.com/watch?v=YkVZLh_PW6I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
