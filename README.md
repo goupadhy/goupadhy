@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Microsoft Marketplace Summit: Commonly asked questions: payouts and private offers](https://www.youtube.com/watch?v=9dhD25L3HHY)
 - [Unified Client Profile for Wealth Management in Microsoft Cloud for Financial Services](https://www.youtube.com/watch?v=Z27qnDLyH2E)
 - [Microsoft Marketplace Summit: The marketplace roadmap: driving innovation for growth](https://www.youtube.com/watch?v=U_KioLonPTw)
 - [Microsoft Marketplace Summit: Industry opportunities for ISVs](https://www.youtube.com/watch?v=DAFrbmQE6m4)
 - [MMS &lpar;November 2022&rpar;: Activate an ecosystem of partners and unlock new markets](https://www.youtube.com/watch?v=D5C63D4nuB8)
-- [Taking Stock Live - a conversation with Shelley Bransten &amp; Tomasz Blicharski](https://www.youtube.com/watch?v=0mqQE2dgpuA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
