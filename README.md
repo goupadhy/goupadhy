@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [STMicroelectronics transform research and development, manufacturing, and supply chain with Azure](https://www.youtube.com/watch?v=DhlIu_yN89g)
 - [LTIMindtree helped TomTom through their Azure migration](https://www.youtube.com/watch?v=wWTNywy61-k)
 - [The Short Circuit with Darryl Willis and special guest Tom Deitrich](https://www.youtube.com/watch?v=JICFwzRbmGI)
 - [Taking Stock Live | A conversation with Shelley Bransten &amp; Daniel Newman](https://www.youtube.com/watch?v=GD0AtefZQts)
 - [Microsoft Marketplace Summit: The ISV Success Program: Your path to accelerate marketplace success](https://www.youtube.com/watch?v=AwBRvh-dk48)
-- [Microsoft Marketplace Summit: Commonly asked questions: payouts and private offers](https://www.youtube.com/watch?v=9dhD25L3HHY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
