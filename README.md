@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Taking Stock Live | A conversation with Shelley Bransten &amp; Lily Kantar](https://www.youtube.com/watch?v=bzd3n3_EHrE)
 - [Easily build applications for health with Power Platform](https://www.youtube.com/watch?v=y82glsOyWgs)
 - [Enhance patient care with personalized patient journeys on Microsoft Cloud for Healthcare](https://www.youtube.com/watch?v=OWMBCSi-iA8)
 - [Empower health teams with remote patient care device data on Microsoft Cloud for Healthcare](https://www.youtube.com/watch?v=4VyNmawbqcM)
 - [STMicroelectronics transform research and development, manufacturing, and supply chain with Azure](https://www.youtube.com/watch?v=DhlIu_yN89g)
-- [LTIMindtree helped TomTom through their Azure migration](https://www.youtube.com/watch?v=wWTNywy61-k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
