@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [An introduction to Marketplace Rewards](https://www.youtube.com/watch?v=6vCuMi2iE4A)
 - [Microsoft at Hannover Messe 2023- Recap](https://www.youtube.com/watch?v=puuPhj9N9_w)
 - [Migrate to Modernize for State and Local Government](https://www.youtube.com/watch?v=gb9Vi0KhpLo)
 - [Taking Stock Live | A conversation with Shelley Bransten &amp; Lily Kanter](https://www.youtube.com/watch?v=bzd3n3_EHrE)
 - [Easily build applications for health with Power Platform](https://www.youtube.com/watch?v=y82glsOyWgs)
-- [Enhance patient care with personalized patient journeys on Microsoft Cloud for Healthcare](https://www.youtube.com/watch?v=OWMBCSi-iA8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
