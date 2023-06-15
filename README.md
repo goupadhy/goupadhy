@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Microsoft Cloud for Sustainability | Scope 3, CSRD Reporting &amp; Project ESG Lake](https://www.youtube.com/watch?v=4yzDGOsKvss)
 - [See how the commercial marketplace became integral to Profisee&#39;s GTM strategy](https://www.youtube.com/watch?v=s4S4ynKuq-Q)
 - [Microsoft Cloud for Manufacturing webinar series](https://www.youtube.com/watch?v=U2ABWEOLGg0)
 - [AT&amp;T develops a new way to work, with a cloud-first approach in Azure](https://www.youtube.com/watch?v=JcvBw3Ht3nM)
 - [AT&amp;T improves operations and employee experiences with Azure and AI technologies](https://www.youtube.com/watch?v=8JXGDbWbeQ4)
-- [Swift innovates with Azure confidential computing to help secure global financial transactions](https://www.youtube.com/watch?v=rVv4WgA0avI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
