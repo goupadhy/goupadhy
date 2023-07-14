@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Making investments to help partners unite through the commercial marketplace | Microsoft Cloud](https://www.youtube.com/watch?v=aAD_MhnYGOs)
 - [Transformative alliances | Microsoft-OPG blueprint for energy innovation](https://www.youtube.com/watch?v=i0sL5bX2YSQ)
 - [Enabling a more sustainable future with Microsoft Cloud for Sustainability](https://www.youtube.com/watch?v=hQBd827JM_o)
 - [Learn how companies like DocuSign, Thread, and Typeface are using Azure OpenAI Service](https://www.youtube.com/watch?v=ivFHCYF3-FY)
 - [Signly builds with Microsoft Azure for a more inclusive future in tech innovation](https://www.youtube.com/watch?v=srpGYLZcUCc)
-- [Taking Stock Live - a conversation with Shelley Bransten &amp; Eva Archer-Smith](https://www.youtube.com/watch?v=3z3yJLTc_0o)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
