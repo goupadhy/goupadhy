@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Microsoft for media and entertainment](https://www.youtube.com/watch?v=wrm31cLK0Gs)
 - [Microsoft in Government &lpar;long&rpar;](https://www.youtube.com/watch?v=VQtv8TOD1ss)
 - [See how the commercial marketplace helped MongoDB and Mural to scale and innovate](https://www.youtube.com/watch?v=YeBHDGORUP8)
 - [Introduction to ISV Success | Discover the benefits](https://www.youtube.com/watch?v=etpXHINpdt4)
 - [Introduction to ISV Success | Supporting ISVs to build, publish and grow](https://www.youtube.com/watch?v=OwOsjbXtLVs)
-- [Announcing the new Microsoft Azure Hero Offerings for Partners](https://www.youtube.com/watch?v=w-Oo2BtG3uI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
