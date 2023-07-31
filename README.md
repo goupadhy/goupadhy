@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Microsoft empowers governments with technology for inclusive programs and thriving communities](https://www.youtube.com/watch?v=bUvoQ6IIzrY)
 - [Microsoft in Government &lpar;short&rpar;](https://www.youtube.com/watch?v=7D40A1tkmmQ)
 - [Empowering customers to find, buy, and deploy cloud solutions with Microsoft commercial marketplace](https://www.youtube.com/watch?v=QrmQKVlksJs)
 - [Microsoft for media and entertainment](https://www.youtube.com/watch?v=wrm31cLK0Gs)
 - [Microsoft in Government &lpar;long&rpar;](https://www.youtube.com/watch?v=VQtv8TOD1ss)
-- [See how the commercial marketplace helped MongoDB and Mural to scale and innovate](https://www.youtube.com/watch?v=YeBHDGORUP8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
