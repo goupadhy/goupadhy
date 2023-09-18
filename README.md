@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Taking Stock Live - a conversation with Shelley Bransten &amp; Deepk Jose](https://www.youtube.com/watch?v=-0oQVTXLa6o)
 - [Project Gutenberg brings free audiobooks to the global community with AI-generated book narration](https://www.youtube.com/watch?v=iB01e1_xRgc)
 - [Bringing 24/7 hourly carbon-free energy to the world with Constellation](https://www.youtube.com/watch?v=GEZc_4oZllM)
 - [Microsoft empowers governments with technology for inclusive programs and thriving communities](https://www.youtube.com/watch?v=bUvoQ6IIzrY)
 - [Microsoft in Government &lpar;short&rpar;](https://www.youtube.com/watch?v=7D40A1tkmmQ)
-- [Empowering customers to find, buy, and deploy cloud solutions with Microsoft commercial marketplace](https://www.youtube.com/watch?v=QrmQKVlksJs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
