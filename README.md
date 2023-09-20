@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [The future of financial services: Enhanced data and discovery from LSEG and Microsoft](https://www.youtube.com/watch?v=TM4ehzYyRPw)
 - [Microsoft Cloud for Retail Grocery Generative AI](https://www.youtube.com/watch?v=f9V87NftLBA)
-- [Taking Stock Live - a conversation with Shelley Bransten &amp; Deepk Jose](https://www.youtube.com/watch?v=-0oQVTXLa6o)
+- [Taking Stock Live - a conversation with Shelley Bransten &amp; Deepak Jose](https://www.youtube.com/watch?v=-0oQVTXLa6o)
 - [Project Gutenberg brings free audiobooks to the global community with AI-generated book narration](https://www.youtube.com/watch?v=iB01e1_xRgc)
 - [Bringing 24/7 hourly carbon-free energy to the world with Constellation](https://www.youtube.com/watch?v=GEZc_4oZllM)
-- [Microsoft empowers governments with technology for inclusive programs and thriving communities](https://www.youtube.com/watch?v=bUvoQ6IIzrY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
