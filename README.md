@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Unlock the power of data with healthcare data solutions in Microsoft Fabric](https://www.youtube.com/watch?v=8VOfgwGDMuE)
 - [The Microsoft Cloud for the era of AI](https://www.youtube.com/watch?v=3MNCpBEjtPs)
 - [Dominik Wee presents Relentless Renewal | AI Masterclass with Magnus Östberg, Mercedes-Benz AG](https://www.youtube.com/watch?v=G2L6xqDE-jU)
 - [The future of financial services: Enhanced data and discovery from LSEG and Microsoft](https://www.youtube.com/watch?v=TM4ehzYyRPw)
 - [Microsoft Cloud for Retail Grocery Generative AI](https://www.youtube.com/watch?v=f9V87NftLBA)
-- [Taking Stock Live - a conversation with Shelley Bransten &amp; Deepak Jose](https://www.youtube.com/watch?v=-0oQVTXLa6o)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
