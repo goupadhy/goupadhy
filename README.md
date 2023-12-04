@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
-- [Friss fraud detection with Azure OpenAI](https://www.youtube.com/watch?v=_45v-jb3L-4)
-- [Microsoft for Govt Operations &amp; Infrastructure](https://www.youtube.com/watch?v=_jWsOfUavPc)
-- [Sight Machine on Azure helps manufacturers increase production performance through industrial data](https://www.youtube.com/watch?v=CrERcsDBXTU)
-- [Bayer leverages Azure Data Manager for Agriculture LLM APIs](https://www.youtube.com/watch?v=y4i6LRnHtVk)
-- [Ekimetrics Supplier Assistant solution for sustainability](https://www.youtube.com/watch?v=d8X8qjml7sY)
+- [AI in a Minute: Prompt Engineering](https://www.youtube.com/watch?v=vGdyePbGNaE)
+- [AI in a Minute: Generative AI](https://www.youtube.com/watch?v=om7iYSucLrk)
+- [AI in a Minute: Responsible AI](https://www.youtube.com/watch?v=fHEaFDMxFwQ)
+- [AI in a Minute: Vector Search](https://www.youtube.com/watch?v=TsPNbxkK_Eg)
+- [AI in a Minute: Large Language Models](https://www.youtube.com/watch?v=FSoQyJEvHiU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
