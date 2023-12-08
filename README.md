@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Enabling the future of financial services in the era of AI](https://www.youtube.com/watch?v=rNNxsMkhmgk)
 - [OSTP moves toward CO2 emissions neutrality with Microsoft Sustainability Manager](https://www.youtube.com/watch?v=ZRO5VdQUqY0)
 - [Explained: Powering Business Decisions with Cloud Scale Analytics - Governments](https://www.youtube.com/watch?v=EOKFfk1o_Vg)
 - [AI in a Minute: Prompt Engineering](https://www.youtube.com/watch?v=vGdyePbGNaE)
 - [AI in a Minute: Generative AI](https://www.youtube.com/watch?v=om7iYSucLrk)
-- [AI in a Minute: Responsible AI](https://www.youtube.com/watch?v=fHEaFDMxFwQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
