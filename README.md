@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Explained: Secure Productivity - Microsoft for Government](https://www.youtube.com/watch?v=eF18HPG8OJo)
 - [Microsoft and Esri use location intelligence to support the agricultural industry](https://www.youtube.com/watch?v=TCA-HGSrPDs)
 - [COP28 Panel Discussion: Insights from Shelly Blackburn, Satish Thomas, and Melanie Nakagawa](https://www.youtube.com/watch?v=HZXBZIvG2eU)
 - [Microsoft at Smart City Expo World Congress 2023](https://www.youtube.com/watch?v=HUBhhpHIyVQ)
 - [Microsoft as Customer Zero: Using our data technology to guide and manage our sustainability journey](https://www.youtube.com/watch?v=GxAz0IKHI8o)
-- [Dominik Wee presents Relentless Renewal: AI trends shaping the future of Germany with Marianne Janik](https://www.youtube.com/watch?v=r98I3W32IG8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
