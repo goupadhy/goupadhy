@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Microsoft Cloud for Retail: copilot template for store operations on Azure OpenAI Service](https://www.youtube.com/watch?v=oPY6-duDLok)
 - [Microsoft Cloud for Retail: retail data solutions in Microsoft Fabric](https://www.youtube.com/watch?v=gU0k29UcRXA)
 - [Explained: Accelerate Innovation with Low Code – Microsoft for Government](https://www.youtube.com/watch?v=VZlBI4JaCp8)
 - [Microsoft Retail Unlocked](https://www.youtube.com/watch?v=XhIemS18N-I)
 - [Explained: Secure Productivity - Microsoft for Government](https://www.youtube.com/watch?v=eF18HPG8OJo)
-- [Microsoft and Esri use location intelligence to support the agricultural industry](https://www.youtube.com/watch?v=TCA-HGSrPDs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
