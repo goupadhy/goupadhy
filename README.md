@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Telstra dials in elevated customer service with Azure OpenAI Service](https://www.youtube.com/watch?v=iM6vyZreRRw)
 - [Microsoft for telecommunications](https://www.youtube.com/watch?v=tXNR-hkfIYc)
 - [New AI capabilities, including Copilot in Microsoft Cloud for Sustainability](https://www.youtube.com/watch?v=ZcqFkAbbcRg)
 - [Get your data AI-ready with Sustainability data solutions in Microsoft Fabric](https://www.youtube.com/watch?v=RKJlaLrAbSw)
 - [Co-building the future of financial services in the era of AI](https://www.youtube.com/watch?v=p0On9b1ADj4)
-- [The future of financial services in the era of AI: Canadian perspectives](https://www.youtube.com/watch?v=BGhxQ29fRcU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
