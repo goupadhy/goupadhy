@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Award winning VFX in the cloud](https://www.youtube.com/watch?v=N7UkzyWOm4Y)
 - [Industry Cloud Conversations | Toggle AI](https://www.youtube.com/watch?v=PCRXr2MCdbw)
 - [Threat Protection for Government with SIEM and XDR](https://www.youtube.com/watch?v=20GS7s5TjcQ)
 - [Shift Technology: Changing the way insurers detect fraud with Azure OpenAI Service](https://www.youtube.com/watch?v=kdcDRCNT1-w)
 - [Telkomsel customer support teams speak volumes—with help from copilot based on Azure OpenAI Service](https://www.youtube.com/watch?v=G77EX3Y1btg)
-- [Telstra dials in elevated customer service with Azure OpenAI Service](https://www.youtube.com/watch?v=iM6vyZreRRw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
