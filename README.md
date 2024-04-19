@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Industry Cloud Conversations | SLB Part 2](https://www.youtube.com/watch?v=uvc2xhJNsn4)
+- [Industry Cloud Conversations | SLB Part 1](https://www.youtube.com/watch?v=yssdcLSDMkw)
 - [Build on a cloud you can trust: Microsoft security and compliance for financial services](https://www.youtube.com/watch?v=vdfhxuWOSlQ)
 - [Introducing new capabilities for Microsoft Cloud for Manufacturing](https://www.youtube.com/watch?v=dHdOQB--wHo)
 - [The Borden Line with Bill Borden and special guest Jim Marous](https://www.youtube.com/watch?v=eWCju1ZthQ8)
-- [Microsoft&#39;s AI Journey through Legal Operations | All in on AI](https://www.youtube.com/watch?v=8TAPGUYEgns)
-- [Microsoft&#39;s AI Journey through Customer Service | All in on AI](https://www.youtube.com/watch?v=AWDm6kAxjDA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
