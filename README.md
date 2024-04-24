@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Learn how Microsoft Cloud for Sovereignty tools can help streamline process](https://www.youtube.com/watch?v=fbq3EfDIfX4)
 - [Industry Cloud Conversations | SLB Part 2](https://www.youtube.com/watch?v=uvc2xhJNsn4)
 - [Industry Cloud Conversations | SLB Part 1](https://www.youtube.com/watch?v=yssdcLSDMkw)
 - [Build on a cloud you can trust: Microsoft security and compliance for financial services](https://www.youtube.com/watch?v=vdfhxuWOSlQ)
 - [Introducing new capabilities for Microsoft Cloud for Manufacturing](https://www.youtube.com/watch?v=dHdOQB--wHo)
-- [The Borden Line with Bill Borden and special guest Jim Marous](https://www.youtube.com/watch?v=eWCju1ZthQ8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
