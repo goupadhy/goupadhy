@@ -7,7 +7,7 @@
 
 ## I'm a Husband, Father, Cloud Architect, and Life Long Learner!!
 
-- 🔭 I'm in this Industry for over 17 years now and every day is Day 1 in terms of learning
+- 🔭 I'm in this Industry for over 18 years now and every day is Day 1 in terms of learning
 - 🌱 I’m currently trying to learn everything around Cloud, Data and AI, Security, Cloud native technologies, Azure Power Platform, Github and App Modernization🤣
 - 👯 I’m looking to collaborate with  Devs/Architects/Technology Thought Leaders
 - 🥅 2023 Goals: Contribute more to Cloud and Open Source projects
