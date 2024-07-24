@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Innovations from climatetech startups with Celine King, founder and CEO at GreenIRR](https://www.youtube.com/watch?v=0A4MJtXr4UQ)
 - [Learn how Profisee eliminates data siloes within Microsoft Fabric](https://www.youtube.com/watch?v=kMZE6KjCs98)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Silvia Candiani](https://www.youtube.com/watch?v=NMEdNprUOzI)
 - [OpenAI creates Retrieval Augmented Generation features with Azure AI Search](https://www.youtube.com/watch?v=cjIE5fBInAE)
 - [Mercedes-Benz creates connected intelligent use experience with Azure AI](https://www.youtube.com/watch?v=ocxnhqZuS8w)
-- [Microsoft&#39;s AI Journey in HR | All in on AI](https://www.youtube.com/watch?v=ffrmZhT3BJA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
