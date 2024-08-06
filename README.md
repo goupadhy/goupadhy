@@ -51,8 +51,8 @@
 
 <!-- YOUTUBE:START -->
 - [LS ELECTRIC optimizes power with Sight Machine and Microsoft Cloud for Manufacturing](https://www.youtube.com/watch?v=AtwO3wILvRc)
-- [Leaders in AI | Learn from Avanade&#39;s Transformation](https://www.youtube.com/watch?v=ngFCBV_KoYo)
-- [Leaders in AI | Learn from Dentsu&#39;s ​Transformation](https://www.youtube.com/watch?v=o3mTuhBSs5A)
+- [AI Luminaries | Learn from Avanade&#39;s Transformation](https://www.youtube.com/watch?v=ngFCBV_KoYo)
+- [AI Luminaries | Learn from Dentsu&#39;s ​Transformation](https://www.youtube.com/watch?v=o3mTuhBSs5A)
 - [Energy transition insights from U.S. DOE Deputy Secretary David Turk](https://www.youtube.com/watch?v=kLKCoqnq6vw)
 - [Innovations from climatetech startups with Celine King, founder and CEO at GreenIRR](https://www.youtube.com/watch?v=0A4MJtXr4UQ)
 <!-- YOUTUBE:END -->
