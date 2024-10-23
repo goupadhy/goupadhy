@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Create connected experiences at every point of care with Microsoft Cloud for Healthcare](https://www.youtube.com/watch?v=3wDM4RbEMgA)
 - [Unify your intelligent data and analytics platform with Microsoft Cloud for Healthcare](https://www.youtube.com/watch?v=IvFHwhCAjzs)
 - [Microsoft and Rezolve AI partner to drive global retail innovation with AI](https://www.youtube.com/watch?v=bos5HLw2jlk)
 - [Burns &amp; McDonnell leveraged Microsoft Azure to manage, store, and secure data](https://www.youtube.com/watch?v=Hmy0CAvKi28)
 - [How to coordinate multi-agency disaster response with Microsoft 365 Copilot](https://www.youtube.com/watch?v=4DY4Gt35SSw)
-- [Innovations from Climatetech Startups with Donnel Baird, Founder of BlocPower](https://www.youtube.com/watch?v=P7aRekkVFTA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
