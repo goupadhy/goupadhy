@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [AI-Driven Transformation: ANZ Bank uses curiosity and safe innovation to help communities thrive](https://www.youtube.com/watch?v=f-mAL3_lu3g)
 - [University of Vermont Medical Center shares their experience with PowerScribe Smart Impression](https://www.youtube.com/watch?v=4-mr3yE8tzA)
 - [The Borden Line with Bill Borden | Transforming Financial Services with Wells Fargo’s Ather Williams](https://www.youtube.com/watch?v=5Idldl1NDSo)
 - [AI Challenger | How Novo Nordisk is using AI in Pharma to unlock data and optimize treatments](https://www.youtube.com/watch?v=gRKoeEbqv-8)
 - [AI Challenger | Leading digital transformation at KPMG with trusted AI](https://www.youtube.com/watch?v=htfqIxWdQjQ)
-- [Microsoft Cloud Industry Solutions: Partners Make More Possible](https://www.youtube.com/watch?v=NY_tV5vpUvM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
