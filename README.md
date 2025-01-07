@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [AI Challenger | Empowering connectivity: Telstra’s vision for AI-enabled telecoms](https://www.youtube.com/watch?v=9emUsNTufXQ)
 - [Achieve more with AI you can trust](https://www.youtube.com/watch?v=9mu0aXee6FE)
 - [Microsoft Cloud for Retail: Personalized Shopping Agent](https://www.youtube.com/watch?v=FG_jlDI-nyg)
-- [AI-Driven Transformation: ANZ Bank uses curiosity and safe innovation to help communities thrive](https://www.youtube.com/watch?v=f-mAL3_lu3g)
+- [AI Challenger |  ANZ Bank uses curiosity and safe innovation to help communities thrive](https://www.youtube.com/watch?v=f-mAL3_lu3g)
 - [University of Vermont Medical Center shares their experience with PowerScribe Smart Impression](https://www.youtube.com/watch?v=4-mr3yE8tzA)
-- [The Borden Line with Bill Borden | Transforming Financial Services with Wells Fargo’s Ather Williams](https://www.youtube.com/watch?v=5Idldl1NDSo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
