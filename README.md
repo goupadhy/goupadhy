@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Microsoft customers create breakthrough innovations with Microsoft AI](https://www.youtube.com/watch?v=S6ZuXlZ8qLs)
+- [Optimize operations with Microsoft AI](https://www.youtube.com/watch?v=8BNs-67x_co)
+- [Unlock employee potential with Microsoft AI](https://www.youtube.com/watch?v=PLsQGT-7VGI)
 - [Microsoft Cloud for Retail: Partners Make More Possible](https://www.youtube.com/watch?v=WDkYz4_pafY)
 - [Empowering retail employees with AI: MediaMarktSaturn partners with Accenture, Avanade &amp; Microsoft](https://www.youtube.com/watch?v=1jK_bUp_oDA)
-- [Microsoft Cloud for Retail: Personalized Shopping Agent](https://www.youtube.com/watch?v=4ERrmMKS2Og)
-- [AI Challenger | ABB uses AI to unlock the future of industry](https://www.youtube.com/watch?v=uLIAdzHQfaA)
-- [AI on the Go for Microsoft Partners: NRF 2025](https://www.youtube.com/watch?v=pry8rCcTfWw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
