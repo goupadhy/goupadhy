@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Build and Modernize AI Apps in Government](https://www.youtube.com/watch?v=hSijQAhF84o)
 - [Retail Ready: Power your AI transformation with Microsoft Cloud for Retail](https://www.youtube.com/watch?v=HEH6W-iX4JE)
 - [Microsoft customers create breakthrough innovations with Microsoft AI](https://www.youtube.com/watch?v=S6ZuXlZ8qLs)
 - [Optimize operations with Microsoft AI](https://www.youtube.com/watch?v=8BNs-67x_co)
 - [Unlock employee potential with Microsoft AI](https://www.youtube.com/watch?v=PLsQGT-7VGI)
-- [Microsoft Cloud for Retail: Partners Make More Possible](https://www.youtube.com/watch?v=WDkYz4_pafY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
