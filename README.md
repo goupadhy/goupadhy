@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Transforming Financial Services with AI and Microsoft Cloud for Financial Services](https://www.youtube.com/watch?v=GpsZDLaE3q4)
 - [AI Challenger: AI at Coles: Transforming the grocery experience from checkout to supply chain](https://www.youtube.com/watch?v=z0TQR5WX53c)
 - [Microsoft Cloud for Retail: Store Operations Agent](https://www.youtube.com/watch?v=PC9T5uXJqC8)
 - [Streamline Your Financial Meeting Prep in Microsoft Teams](https://www.youtube.com/watch?v=ZJ0Or9zsqGE)
 - [Accelerating Banking Transformation with AI](https://www.youtube.com/watch?v=KD-rkl9XFNg)
-- [Build and Modernize AI Apps in Government](https://www.youtube.com/watch?v=hSijQAhF84o)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
