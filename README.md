@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [AI Challenger | Zurich Insurance redefines what’s possible with AI](https://www.youtube.com/watch?v=s5SepB5PXQ0)
 - [A Fireside Chat with Allison Nachtigall &amp; Jared Lambert: FSI Innovation with AI in Microsoft Cloud](https://www.youtube.com/watch?v=ezH4QF6i4oA)
 - [Microsoft: The Power of Partnership](https://www.youtube.com/watch?v=wlyqKsOKy24)
 - [Transforming Financial Services with AI and Microsoft Cloud for Financial Services](https://www.youtube.com/watch?v=GpsZDLaE3q4)
 - [AI Challenger: AI at Coles: Transforming the grocery experience from checkout to supply chain](https://www.youtube.com/watch?v=z0TQR5WX53c)
-- [Microsoft Cloud for Retail: Store Operations Agent](https://www.youtube.com/watch?v=PC9T5uXJqC8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
