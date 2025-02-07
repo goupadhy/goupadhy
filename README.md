@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/goupadhy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgoupadhy&screen_name=goupadhy)
 [![Linkedin: goupadhy](https://img.shields.io/badge/-Goutham%20Upadhyaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goupadhy/)](https://www.linkedin.com/in/goupadhy/)
 
-## I'm a Husband, Father, Cloud Architect, and Life Long Learner!!
+## I'm a Husband, Father, Cloud Architect, Tech Strategist, and Life Long Learner!!
 
 - 🔭 I'm in this Industry for over 18 years now and every day is Day 1 in terms of learning
 - 🌱 I’m currently trying to learn everything around Cloud, Data and AI, Security, Cloud native technologies, Azure Power Platform, Github and App Modernization🤣
