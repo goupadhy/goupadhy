@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [The Borden Line with Bill Borden | Getting Banking Data AI-Ready with Novobanco and Quantexa](https://www.youtube.com/watch?v=KaO4SAxqKLw)
 - [Innovation from Climatetech Startups: Dr. Etosha Cave, Co-Founder &amp; Chief Science Officer of Twelve](https://www.youtube.com/watch?v=CscWCQcPIVY)
 - [AI Challenger | Zurich Insurance redefines what’s possible with AI](https://www.youtube.com/watch?v=s5SepB5PXQ0)
 - [AI innovation in financial services: A conversation with Allison Nachtigal and Jared Lambert](https://www.youtube.com/watch?v=ezH4QF6i4oA)
 - [Microsoft: The Power of Partnership](https://www.youtube.com/watch?v=wlyqKsOKy24)
-- [Transforming Financial Services with AI and Microsoft Cloud for Financial Services](https://www.youtube.com/watch?v=GpsZDLaE3q4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
