@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Boost Factory Efficiency with Factory Operations Agent](https://www.youtube.com/watch?v=6tQqsb1uj-k)
 - [AI Challenger | Air India uses AI to become a global leader in aviation](https://www.youtube.com/watch?v=fnDYGNQQ3cU)
 - [AI Challenger | BoQ uses AI to set a new standard for banking in the digital economy](https://www.youtube.com/watch?v=Dy3lvjDvkuE)
 - [AI on the Go for Microsoft Partners: Telecom](https://www.youtube.com/watch?v=uFSIGIhG6kk)
 - [AI on the Go for Microsoft Partners: Healthcare](https://www.youtube.com/watch?v=psf6_PzsMJg)
-- [AI Challenger | Eaton uses AI to Reshape Operations and Customer Service](https://www.youtube.com/watch?v=bhgvHWpe7WA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
