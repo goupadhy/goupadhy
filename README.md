@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Power your AI transformation with Microsoft for Consumer Goods](https://www.youtube.com/watch?v=Pwujsn-mKWg)
 - [Accelerate research, discovery, and development](https://www.youtube.com/watch?v=v_vxP1ckAIk)
 - [Microsoft Cloud for Healthcare Overview Video](https://www.youtube.com/watch?v=ju7-s7Sb8Yg)
 - [Empower your healthcare workforce](https://www.youtube.com/watch?v=WLwRRsCrBXs)
 - [Safeguard your people, health data and infrastructure](https://www.youtube.com/watch?v=NmTv5iWY8mE)
-- [Enhance patient and member experiences](https://www.youtube.com/watch?v=ZJm0UcSEwxU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
