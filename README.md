@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [AI on the Go for Microsoft Partners: Manufacturing](https://www.youtube.com/watch?v=aYsx-VibHW4)
 - [50 Years of Partnership: Empowering Businesses Across Industries](https://www.youtube.com/watch?v=B0UG4WkTZ0s)
 - [AI Challenger | AvePoint uses AI to transform their business inside and out](https://www.youtube.com/watch?v=ioXJEEZgLfc)
 - [Power your AI transformation with Microsoft for Consumer Goods](https://www.youtube.com/watch?v=Pwujsn-mKWg)
 - [Accelerate research, discovery, and development](https://www.youtube.com/watch?v=v_vxP1ckAIk)
-- [Microsoft Cloud for Healthcare Overview Video](https://www.youtube.com/watch?v=ju7-s7Sb8Yg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
