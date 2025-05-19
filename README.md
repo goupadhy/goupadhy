@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Microsoft Discovery platform overview](https://www.youtube.com/watch?v=R8d5JsJ9R64)
+- [Introducing Microsoft Discovery](https://www.youtube.com/watch?v=k3S4lPbUWng)
 - [Microsoft&#39;s 50th Anniversary: Insights with Shelley Bransten on AI, Retail, and Financial Services](https://www.youtube.com/watch?v=aeUuSw2Rgyk)
 - [Microsoft Cloud for Sustainability: Partnering to Achieve ESG Goals](https://www.youtube.com/watch?v=RtsyDzzxQ-0)
 - [AI on the Go for Microsoft Partners: Manufacturing](https://www.youtube.com/watch?v=aYsx-VibHW4)
-- [50 Years of Partnership: Empowering Businesses Across Industries](https://www.youtube.com/watch?v=B0UG4WkTZ0s)
-- [AI Challenger | AvePoint uses AI to transform their business inside and out](https://www.youtube.com/watch?v=ioXJEEZgLfc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
