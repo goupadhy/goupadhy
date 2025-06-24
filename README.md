@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [The Borden Line with Bill Borden | Turning AI Vision into Impact in UK Financial Services](https://www.youtube.com/watch?v=mQ9iaTar9ew)
 - [AI Challenger | Enveda: Turning discoveries into life-saving medicines, faster](https://www.youtube.com/watch?v=8JU5B4vTxsg)
 - [AI Challenger | Loft Orbital: Building smarter satellites with AI](https://www.youtube.com/watch?v=lGtTnFlI6yA)
 - [Carilion Clinic develops strong patient-clinician bonds with DAX Copilot](https://www.youtube.com/watch?v=DaMWXnKUp_U)
 - [AI on the Go for Microsoft Partners: Series Trailer](https://www.youtube.com/watch?v=cWIHcbOihY4)
-- [AI Challenger | HEINEKEN: Tapping AI to Become the Best-Connected Brewer](https://www.youtube.com/watch?v=Vo647KQyMus)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
