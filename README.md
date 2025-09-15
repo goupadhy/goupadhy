@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Building Resilient &amp; Responsible Supply Chains | Accelerating Sustainability Together](https://www.youtube.com/watch?v=zQukNIKywIo)
+- [Innovating for a Low-Carbon Future | Accelerating Sustainability Together](https://www.youtube.com/watch?v=_xQcmXI9dhw)
+- [Turning Insights Into Impact with AI | Accelerating Sustainability Together](https://www.youtube.com/watch?v=UTymSy_YT7I)
 - [Ralph Lauren redefines shopping with Microsoft AI–powered styling companion Ask Ralph](https://www.youtube.com/watch?v=JK1tqjqQeL8)
 - [Taking Stock Live | A conversation with Shelley Bransten &amp; Matt Shay](https://www.youtube.com/watch?v=QSenlrhP43A)
-- [Taking Stock Live | A conversation with Shelley Bransten &amp; Ian Kahn](https://www.youtube.com/watch?v=gHGMBxy2W1c)
-- [AI Use Cases: Achieve Business Goals with Microsoft AI](https://www.youtube.com/watch?v=j9jGYAY9uig)
-- [AI Challengers | Adecco: Revolutionizing Recruitment- AI-Powered Approach](https://www.youtube.com/watch?v=5N3FR8lzC3Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
