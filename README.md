@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Future-Proofing Academic Research: Workflows, Secure Enclaves, and AI Computing with Terawe ManageX](https://www.youtube.com/watch?v=vdZeka_5-Ss)
 - [Tutch partners with Microsoft to solve real-world challenges for retailers](https://www.youtube.com/watch?v=0BqIUtFL3KY)
 - [Building Resilient &amp; Responsible Supply Chains | Accelerating Sustainability Together](https://www.youtube.com/watch?v=zQukNIKywIo)
 - [Innovating for a Low-Carbon Future | Accelerating Sustainability Together](https://www.youtube.com/watch?v=_xQcmXI9dhw)
 - [Turning Insights Into Impact with AI | Accelerating Sustainability Together](https://www.youtube.com/watch?v=UTymSy_YT7I)
-- [Ralph Lauren redefines shopping with Microsoft AI–powered styling companion Ask Ralph](https://www.youtube.com/watch?v=JK1tqjqQeL8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
