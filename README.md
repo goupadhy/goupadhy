@@ -50,7 +50,7 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
-- [Future-Proofing Academic Research: Workflows, Secure Enclaves, and AI Computing with Terawe ManageX](https://www.youtube.com/watch?v=FTHUFYMIoj8)
+- [Introduction to Azure CycleCloud &amp; CycleCloud Workspace for Slurm](https://www.youtube.com/watch?v=FTHUFYMIoj8)
 - [Microsoft Marketplace: Your trusted source for cloud solutions, AI apps, and agents](https://www.youtube.com/watch?v=ACM_lNWx8kQ)
 - [Microsoft Marketplace end-to-end experience demo](https://www.youtube.com/watch?v=SilJPeLXmL8)
 - [Future-Proofing Academic Research: Workflows, Secure Enclaves, and AI Computing with Terawe ManageX](https://www.youtube.com/watch?v=vdZeka_5-Ss)
