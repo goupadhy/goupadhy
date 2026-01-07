@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Store Operations That Scale: Turn Signals into Decisions](https://www.youtube.com/watch?v=0ccUfvqzalA)
 - [Microsoft&#39;s Exciting Agentic Solutions for Retailers and Brands](https://www.youtube.com/watch?v=6wpTmWgSkCA)
 - [Cooper University Health Care enhances patient care with Microsoft Dragon Copilot](https://www.youtube.com/watch?v=7mFPeG3ogl8)
 - [Accelerate innovation with AI: Introducing the Product Change Management agent template](https://www.youtube.com/watch?v=tyV3Yn5hsKw)
 - [Microsoft Marketplace end-to-end experience demo](https://www.youtube.com/watch?v=J1pQGcut2b0)
-- [Microsoft GenAI for Energy Permitting Solution Accelerator](https://www.youtube.com/watch?v=wCI6Oqiv4KQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
