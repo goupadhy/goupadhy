@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [The New Industrialists | Neural Concept revolutionizing engineering with AI-powered design tools](https://www.youtube.com/watch?v=G_l2-r_6tYE)
 - [The New Industrialists | Cerence AI is transforming the in-car experience](https://www.youtube.com/watch?v=9rddgZqhk2M)
 - [The New Industrialists | Exploring how software-defined vehicles are transforming the auto industry](https://www.youtube.com/watch?v=ge2E5_2PPbU)
 - [The New Industrialists | Kraft Heinz - the role of AI in driving operational efficiency &amp; innovation](https://www.youtube.com/watch?v=KmcXrEA65Rs)
 - [The New Industrialists | ETAS - transforming automotive software development](https://www.youtube.com/watch?v=Xx1fjvy99Dk)
-- [The Agentic Commerce shift is happening. Microsoft AI gets you ready.](https://www.youtube.com/watch?v=3k8dq7YXNic)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
