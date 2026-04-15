@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Coca-Cola’s Global Tech Conundrum](https://www.youtube.com/shorts/lJQmGkWN9zk)
 - [HMI2025_Microsoft sizzle](https://www.youtube.com/watch?v=2OSnZC4Lh1w)
 - [Frontier Firms Find a Return on Intelligence](https://www.youtube.com/shorts/ydOFSLUUQR8)
 - [AI Innovations for Energy: Microsoft Agora House Tour at CeraWeek](https://www.youtube.com/watch?v=Ti9anYmdDHA)
 - [Ralph Lauren Reinvents Shopping with AI](https://www.youtube.com/shorts/BWEc9b42kL0)
-- [Powering AI: Aalo Atomics’ Nuclear Revolution and AI-Driven Permitting](https://www.youtube.com/watch?v=3xG1TDUpN0U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
