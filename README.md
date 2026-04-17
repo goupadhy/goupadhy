@@ -52,7 +52,7 @@
 <!-- YOUTUBE:START -->
 - [Microsoft Agent Factory: Bridge the gap from ideas to outcomes, faster](https://www.youtube.com/watch?v=oavX2jaFZpw)
 - [Coca-Cola’s Global Tech Conundrum](https://www.youtube.com/shorts/lJQmGkWN9zk)
-- [HMI2025_Microsoft sizzle](https://www.youtube.com/watch?v=2OSnZC4Lh1w)
+- [Microsoft at Hannover Messe](https://www.youtube.com/watch?v=2OSnZC4Lh1w)
 - [Frontier Firms Find a Return on Intelligence](https://www.youtube.com/shorts/ydOFSLUUQR8)
 - [AI Innovations for Energy: Microsoft Agora House Tour at CeraWeek](https://www.youtube.com/watch?v=Ti9anYmdDHA)
 <!-- YOUTUBE:END -->
