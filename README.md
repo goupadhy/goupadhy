@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [The New Industrialists | AI Revolution in Manufacturing: Real Change, Real Results](https://www.youtube.com/watch?v=9drV0aAKSh0)
 - [The New Industrialists | How AI and Human Ingenuity Are Transforming Industry](https://www.youtube.com/watch?v=rOY1F5Eip5s)
 - [The New Industrialists | Autonomous Pipeline Optimization: Industrial Automation in Oil &amp; Gas](https://www.youtube.com/watch?v=TkW-EDWh5Uw)
 - [The New Industrialists | Transforming Manufacturing with Adaptive Cloud](https://www.youtube.com/watch?v=wgQTes-_ppc)
 - [From Paper to Platform: Reimagine Trade Finance with GenAI](https://www.youtube.com/watch?v=gqT3URbyK2k)
-- [Microsoft Agent Factory: Bridge the gap from ideas to outcomes, faster](https://www.youtube.com/watch?v=oavX2jaFZpw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
