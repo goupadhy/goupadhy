@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Next Time on The New Industrialists](https://www.youtube.com/shorts/G5BTjyKRaNY)
 - [The New Industrialists | Hannover Messe 2026 Microsoft booth tour](https://www.youtube.com/watch?v=7gGCwAlSIPg)
 - [The New Industrialists | AI Transformation: Empowering the Energy Workforce](https://www.youtube.com/watch?v=kqaQtOl8DGQ)
 - [The New Industrialists | Hannover Messe Siemens Fireside Chat](https://www.youtube.com/watch?v=KkNe66VuYyU)
 - [The New Industrialists | AI Revolution in Manufacturing: Real Change, Real Results](https://www.youtube.com/watch?v=9drV0aAKSh0)
-- [The New Industrialists | How AI and Human Ingenuity Are Transforming Industry](https://www.youtube.com/watch?v=rOY1F5Eip5s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
