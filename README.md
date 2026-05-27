@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Cloud MFG: AI Transformation - Becoming Frontier Video Series - 1 of 7 &lpar;LI&rpar;](https://www.youtube.com/shorts/O18ZI03mjhg)
 - [Conagra Brands takes an employee-led approach to develop new skills with Microsoft Copilot](https://www.youtube.com/watch?v=4kMOJfhzf2c)
 - [You’re not late to AI—you’re early to Frontier Transformation](https://www.youtube.com/watch?v=oiSKnf2lBXc)
 - [Next Time on The New Industrialists](https://www.youtube.com/shorts/G5BTjyKRaNY)
 - [The New Industrialists | Hannover Messe 2026 Microsoft booth tour](https://www.youtube.com/watch?v=7gGCwAlSIPg)
-- [The New Industrialists | AI Transformation: Empowering the Energy Workforce](https://www.youtube.com/watch?v=kqaQtOl8DGQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
