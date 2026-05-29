@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Frontier Firm - Customer Engagement](https://www.youtube.com/shorts/X-JaWvHDJAk)
 - [AI Transformation - Becoming Frontier - Skilling](https://www.youtube.com/shorts/RASJ2uERH4o)
 - [Frontier Firm - Reshape Business Processes](https://www.youtube.com/shorts/zxaPfRuFK1o)
 - [AI Transformation - Retail - Becoming Frontier](https://www.youtube.com/shorts/3ZPzW57xsUQ)
 - [Marketing AI Transformation - Becoming Frontier](https://www.youtube.com/shorts/fmAH9PQQVsM)
-- [Cloud MFG: AI Transformation - Becoming Frontier Video Series - 1 of 7 &lpar;LI&rpar;](https://www.youtube.com/shorts/O18ZI03mjhg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
