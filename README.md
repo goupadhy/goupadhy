@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Levi Strauss &amp; Co. builds a resilient and innovative new chapter in the cloud with Azure](https://www.youtube.com/watch?v=te91xQSy4lY)
 - [Frontier Firm - Customer Engagement](https://www.youtube.com/shorts/X-JaWvHDJAk)
 - [AI Transformation - Becoming Frontier - Skilling](https://www.youtube.com/shorts/RASJ2uERH4o)
 - [Frontier Firm - Reshape Business Processes](https://www.youtube.com/shorts/zxaPfRuFK1o)
 - [AI Transformation - Retail - Becoming Frontier](https://www.youtube.com/shorts/3ZPzW57xsUQ)
-- [Marketing AI Transformation - Becoming Frontier](https://www.youtube.com/shorts/fmAH9PQQVsM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
