@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [AI won’t dilute creativity—what matters is how it’s shaped](https://www.youtube.com/watch?v=IE1EsHiPDzk)
 - [Cloud Healthcare: AI Transformation - Becoming Frontier](https://www.youtube.com/shorts/hm5X2ku_4r8)
 - [Introducing intelligent discovery in Microsoft Marketplace | Demo Walkthrough](https://www.youtube.com/watch?v=ezFMU3n6qzg)
 - [A new way to shop Microsoft Marketplace: say hello to intelligent discovery](https://www.youtube.com/watch?v=Ww1wpgTJvao)
 - [Levi Strauss &amp; Co. builds a resilient and innovative new chapter in the cloud with Azure](https://www.youtube.com/watch?v=te91xQSy4lY)
-- [Frontier Firm - Customer Engagement](https://www.youtube.com/shorts/X-JaWvHDJAk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
