@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Microsoft for US Government](https://www.youtube.com/watch?v=as9xvFeaaHA)
 - [Frontier Transformation - AI Tour Sydney - Andrew Dome](https://www.youtube.com/shorts/_Axd4KMI0To)
 - [Aldin Birdaini at AI Tour Zurich](https://www.youtube.com/shorts/fpLmnbwZDWQ)
 - [Frontier Transformation - AI Tour Zurich](https://www.youtube.com/shorts/cqTWkn8OCMM)
 - [AI won’t dilute creativity—what matters is how it’s shaped](https://www.youtube.com/watch?v=IE1EsHiPDzk)
-- [Cloud Healthcare: AI Transformation - Becoming Frontier](https://www.youtube.com/shorts/hm5X2ku_4r8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
