@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Bend the Curve of Innovation](https://www.youtube.com/shorts/vQ-S4ehE9ik)
 - [The New Industrialists | Manufacturing Co-Intelligence: Leading Change with Agentic AI at Bosch](https://www.youtube.com/watch?v=nXIiPHJ-Jcg)
 - [Microsoft for US Government](https://www.youtube.com/watch?v=as9xvFeaaHA)
 - [Frontier Transformation - AI Tour Sydney - Andrew Dome](https://www.youtube.com/shorts/_Axd4KMI0To)
 - [Aldin Birdaini at AI Tour Zurich](https://www.youtube.com/shorts/fpLmnbwZDWQ)
-- [Frontier Transformation - AI Tour Zurich](https://www.youtube.com/shorts/cqTWkn8OCMM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
