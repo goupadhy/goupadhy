@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [The New Industrialists | How Brembo Uses AI and Data to Drive Innovation and Business Growth](https://www.youtube.com/watch?v=8EWgBD-VJF0)
 - [The New Industrialists | Bridging AI, Data, and Human Expertise in Modern Machine Tool Production](https://www.youtube.com/watch?v=k5whFj_oZwM)
 - [The New Industrialists | AI, Discovery, and the Future of Innovation at Saint-Gobain](https://www.youtube.com/watch?v=rFyjB-Lq4fs)
 - [The New Industrialists | Digitale Transformation und Innovation mit Microsoft und Krones](https://www.youtube.com/watch?v=ZU7f89JF-NY)
 - [AI Tour Atlanta Sizzle](https://www.youtube.com/shorts/7yaPP3Tvzu4)
-- [Frontier Transformation - Learning to use AI](https://www.youtube.com/shorts/vPWjRuMxrRI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
