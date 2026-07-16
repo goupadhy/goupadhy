@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Lifeline Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=DKuLbhBHupY)
 - [EY Global Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=dYSo0Nq9hNI)
 - [EY Oceania Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=wwFU6YaS6sA)
 - [Advania UK Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=4ygWPWgVybY)
 - [The New Industrialists | Transforming Manufacturing with Standards, AI, and Data-Driven Tools](https://www.youtube.com/watch?v=2tsyZ7SVkO8)
-- [The New Industrialists | How 25,000 TKE Technicians Power Global Uptime and Innovation](https://www.youtube.com/watch?v=C8pGAS_HJDo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
