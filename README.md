@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [AI Tour Conversation Studio - Teach for America](https://www.youtube.com/watch?v=KL-zFx4IEeU)
 - [Baringa Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=2sXUPviJ-OU)
 - [Salvation Army UK and Ireland Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=_TxtXuxAWvM)
 - [Scope Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=ZZEtahBCSvM)
 - [Lifeline Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=DKuLbhBHupY)
-- [EY Global Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=dYSo0Nq9hNI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
