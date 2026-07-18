@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Children&#39;s Cancer Institute Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=c8zvlqgpO_Q)
 - [Grant Thorton Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=z1THXoJN-YE)
 - [GHD Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=o9kn2oH219I)
 - [Brisbane Catholic Education Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=k5jUhrC-yLA)
 - [AI Tour Conversation Studio - Teach for America](https://www.youtube.com/watch?v=KL-zFx4IEeU)
-- [Baringa Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=2sXUPviJ-OU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
