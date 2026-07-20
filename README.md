@@ -50,11 +50,11 @@
 <!-- YOUTUBE0:END -->
 
 <!-- YOUTUBE:START -->
+- [Opportunity International Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=2vJ-EaYBMDU)
 - [Uniting NSW/ACT Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=TtuIH8Vsqmw)
 - [Esuarve Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=p49sFWfB4KE)
 - [Children&#39;s Cancer Institute Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=c8zvlqgpO_Q)
 - [Grant Thorton Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=z1THXoJN-YE)
-- [GHD Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=o9kn2oH219I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
