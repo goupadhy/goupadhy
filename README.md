@@ -11,7 +11,7 @@
 - 🌱 I’m currently trying to learn everything around Cloud, Data and AI, Security, Cloud native technologies, Azure Power Platform, Github and App Modernization🤣
 - 👯 I’m looking to collaborate with  Devs/Architects/Technology Thought Leaders
 - 🥅 2026 Goals: Contribute more to Cloud and Open Source projects
-- ⚡ Fun fact: I love to spend time with my daughters, they teach me how to be curious, learn new things and keeping  life simple
+- ⚡ Fun fact: I love to spend time with my kids, they teach me how to be curious, learn new things and keeping  life simple
 
 ![giphy](https://user-images.githubusercontent.com/17924915/136348243-2f70707a-2667-4584-b5eb-7bc320f28410.gif)
 
